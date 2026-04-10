@@ -14,7 +14,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔧 Step 1: Infrastructure Provisioning (Terraform)</strong></summary>
 
 - Provisioned **VPC**, **Security Groups**, **Ansible Controller**, **Jenkins Master**, and **Agent Instances** using Terraform.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step1.md#L1)
+🔗
 
 </details>
 
@@ -22,7 +22,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔐 Step 2: SSH Configuration</strong></summary>
 
 - Set up password-less authentication between Ansible Controller and Agent nodes.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step2.md#L1)
+🔗 
 
 </details>
 
@@ -31,7 +31,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 - Configured Jenkins Master and Agent nodes.  
 - Agent configured as **Maven Build Server**.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step3.md#L1)
+🔗
 
 </details>
 
@@ -39,8 +39,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔗 Step 4: Jenkins Master-Agent Integration</strong></summary>
 
 - Connected Jenkins Master to Agent with credentials.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step4.md#L1)
-
+🔗 
 </details>
 
 <details>
@@ -48,15 +47,14 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 - Added GitHub credentials.  
 - Created **Multibranch Pipeline Job**.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step5.md#L1)
-
+🔗 
 </details>
 
 <details>
 <summary><strong>🚨 Step 6: Webhook Trigger Setup</strong></summary>
 
 - Configured GitHub webhook trigger using **Multibranch Scan Webhook Trigger Plugin**.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step6.md#L1)
+🔗 [Step Details])
 
 </details>
 
@@ -68,7 +66,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 - Added SonarQube server and scanner to Jenkins.  
 - Configured `sonar-project.properties`.  
 - Added **code quality**, **unit test**, and **build** stages in `Jenkinsfile`.  
-🔗 [Step-by-step Setup](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step7.md#L3)
+🔗 [Step-by-step Setup]
 
 </details>
 
@@ -77,8 +75,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 - Configured JFrog credentials.  
 - Installed Artifactory plugin in Jenkins.  
-🔗 [Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step8.md#L1)
-
+🔗 [Details]
 </details>
 
 <details>
@@ -87,8 +84,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 - Built Docker image from `.jar`.  
 - Pushed to JFrog Artifactory using **Docker Pipeline Plugin**.  
 - Added **Docker Build & Publish** stage to Jenkinsfile.  
-🔗 [Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step9.md#L1)
-
+🔗 [Details]
 </details>
 
 <details>
@@ -129,14 +125,8 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 ## 👨‍💻 Author & Community
 
-This project is maintained by **[Harshhaa](https://github.com/NotHarshhaa)** 🚀
-
-### 💬 Connect with Me:
-
-- 🐙 **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- 📝 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- 💬 **Telegram**: [Join Community](https://t.me/prodevopsguy)  
-- 👔 **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
+This project is maintained by https://github.com/Piyush88900
+)
 
 ---
 
